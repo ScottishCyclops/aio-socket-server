@@ -24,6 +24,7 @@
         "aio-socket-server.js"
     ],
     "main": "aio-socket-server",
+    "typings": "aio-socket-server.d.ts",
     "repository": {
         "type": "git",
         "url": "https://github.com/ScottishCyclops/aio-socket-server.git"
