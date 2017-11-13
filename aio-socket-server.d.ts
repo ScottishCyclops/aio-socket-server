@@ -5,6 +5,7 @@
 import { Server as HttpServer } from "http";
 import { Server as HttpsServer } from "https";
 import { Express } from "express";
+import * as SocketIO from "socket.io";
 
 export = createAio;
 
