@@ -1,0 +1,35 @@
+{
+    "name": "aio-socket-server",
+    "version": "1.0.0",
+    "description": "An all-in-one server with socket-io for easy communication between a served html page and the NodeJS server",
+    "keywords": [
+        "server",
+        "http",
+        "https",
+        "socket",
+        "socket.io",
+        "websockets",
+        "all-in-one",
+        "simple"
+    ],
+    "homepage": "https://github.com/ScottishCyclops/aio-socket-server",
+    "bugs": "https://github.com/ScottishCyclops/aio-socket-server/issues",
+    "license": "MIT",
+    "author": {
+        "name": "Scott Winkelmann",
+        "email": "scottlandart@gmail.com"
+    },
+    "files": [
+        "aio-socket-server.d.ts",
+        "aio-socket-server.js"
+    ],
+    "main": "aio-socket-server",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ScottishCyclops/aio-socket-server.git"
+    },
+    "dependencies": {
+        "express": "^4.16.2",
+        "socket.io": "^2.0.4"
+    }
+}
