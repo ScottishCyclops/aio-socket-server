@@ -1,6 +1,6 @@
 {
     "name": "aio-socket-server",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "An all-in-one server with socket-io for easy communication between a served html page and the NodeJS server",
     "keywords": [
         "server",
