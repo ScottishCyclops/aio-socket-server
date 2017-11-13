@@ -11,14 +11,14 @@ for you then give you back full control.
 
 Basic usage (see **example.js** file for more):
 
-`javascript
+```javascript
 const srv = require("aio-socket-server")({
     port: 8080,
     verbose: true
 });
 
 srv.io.on("connection", socket => console.log("connection!));
-`
+```
 
 
 ## Installation
