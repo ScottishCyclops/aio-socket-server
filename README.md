@@ -17,7 +17,7 @@ const srv = require("aio-socket-server")({
     verbose: true
 });
 
-srv.io.on("connection", socket => console.log("connection!));
+srv.io.on("connection", socket => console.log("connection!"));
 ```
 
 
