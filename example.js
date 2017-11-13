@@ -1,4 +1,4 @@
-const srv = require("./aio-socket-server")({
+const srv = require(".")({
     port: 8080,
     verbose: true
 });
